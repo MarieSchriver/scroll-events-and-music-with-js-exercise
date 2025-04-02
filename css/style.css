@@ -71,15 +71,15 @@ html{
 }
 
 .container .pa{
-    background-image: url("../img/paris.jpg");
+    background-image: url("../img/denmark.jpeg");
 }
 
 .container .ist{
-    background-image: url("../img/istanbul.jpg");
+    background-image: url("../img/amsterdam.avif");
 }
 
 .container .fir{
-    background-image: url("../img/firenze.jpg");
+    background-image: url("../img/spain-madrid.avif");
 }
 
 .container .hol{
@@ -108,7 +108,7 @@ div.video.parallax{
 button.btn.btn-primary.btn-lg.btn-block {
     width: 508px;
     height: 120px;
-    background-color: darkorange;
+    background-color: rgb(255, 0, 238);
     font-size: 3.7em;
     color: ghostwhite;
 }
